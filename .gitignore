@@ -3,4 +3,4 @@ go-kubernetes
 out/
 vendor/
 _vendor-*
-.idea1
+.idea
