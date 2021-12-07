@@ -1,4 +1,4 @@
-module github.com/callicoder/go-kubernetes
+module github.com/magicxiabao/go-k8s-app-demo
 
 go 1.17
 
